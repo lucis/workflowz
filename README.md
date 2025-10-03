@@ -3,6 +3,14 @@
 > **Never heard of Deco?** Think: Cloudflare Workers + MCP + AI-powered tool orchestration.  
 > **This template**: Visual workflow builder where AI generates executable code steps.
 
+## 🌐 Try the Live Demo
+
+**Test the concept app**: [candeia.deco.page](https://candeia.deco.page)
+
+⚠️ **Alpha Status**: This is an early preview of the Deco workflow system. The platform is still in active development.
+
+📝 **Note**: Source code is currently closed-source as we're finishing up the core platform. This documentation provides architectural patterns and concepts you can implement in your own projects.
+
 ---
 
 ## 🎁 What This Makes Easy
